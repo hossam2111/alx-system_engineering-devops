@@ -1,2 +1,2 @@
 #!/bin/bash
-:3p icata | tail -1
+head -3 icata | tail -1
